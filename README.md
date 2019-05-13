@@ -19,6 +19,7 @@
 * Ditto
 * Aqua Snap
 * F.lux
+* TeraCopy
 
 ## Videos/Photos/Audio
 * Adobe Illustrator
